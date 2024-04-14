@@ -34,12 +34,7 @@ coming soon.
 coming soon.
 ```
 
-## 6. Usage
-```
-coming soon.
-```
-
-## 7. Citation
+## 6. Citation
 ```
 coming soon.
 ```
