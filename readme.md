@@ -3,7 +3,7 @@
 ## 1. Introduction
 This repo is the official implementation of 'Fine-grained Attributes Mapping of Individual Buildings from Street-view and Satellite Imagery', including a part of the dataset and benchmarks established in our study. The whole dataset and the code of cross-view matching algorithm will be released later.
 
-![image1](https://github.com/Daniel-Chender/CVB-Mapping/assets/87884883/42131f1b-c3c2-4f8e-80ef-1a26bc6fdc85)
+![image1](https://github.com/Daniel-Chender/CVB-Mapping/assets/87884883/a600edb8-901b-4cdb-9237-41d65dad38c2)
 <center>The overall framework of our proposed CVB-Mapping for large-scale fine-grained building attributes mapping</center>
 
 ## 2. Datasets and annotations
